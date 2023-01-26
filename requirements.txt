@@ -1,0 +1,4 @@
+Colorama 
+Requests 
+rich 
+Mechanize 
